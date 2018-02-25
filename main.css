@@ -23,7 +23,7 @@ body {
   font-kerning: normal;}
   @media screen and (max-width: 800px) {
     body {
-      font-size: 16px; }}
+      font-size: 17px; }}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -374,7 +374,7 @@ table {
   text-decoration: underline; }
   @media screen and (max-width: 800px) {
     .post-title {
-      font-size: 3em; } }
+      font-size: 2em; } }
 
 .post-content {
   margin-bottom: 30px; }
@@ -383,21 +383,21 @@ table {
     font-family: "Slimbach-Bold";}
     @media screen and (max-width: 800px) {
       .post-content h2 {
-        font-size: 28px;
+        font-size: 1.7em;
         font-family: "Slimbach-Bold";} }
   .post-content h3 {
     font-size: 26px;
     font-family: "Slimbach-Medium";} }
     @media screen and (max-width: 800px) {
       .post-content h3 {
-        font-size: 22px;
+        font-size: 1.5em;
         font-family: "Slimbach-Medium"; } }
   .post-content h4 {
     font-size: 20px;
     font-family: "Slimbach-Medium";} }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 18px;
+        font-size: 1.2em;
         font-family: "Slimbach-Medium"; } }
 
   .post-content a {
@@ -549,4 +549,3 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
->>>>>>> 32d711718a0b23e92a3665c228e21fa21054fe16
