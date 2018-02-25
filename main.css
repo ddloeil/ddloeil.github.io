@@ -78,6 +78,7 @@ li {
 
 .index-img {
   padding-top: 20px;
+  max-width: 400px;
 }
 
 .post-img {
