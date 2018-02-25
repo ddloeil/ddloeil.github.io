@@ -1,0 +1,91 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3530704, 2018-02-22T03:39:31-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Slimbach-Black by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/medium-black/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All Rights Reserved.
+ * 
+ * Webfont: Slimbach-MediumSC by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/medium-sc/
+ * Copyright: Font software Copyright 1991, 2001 Adobe Systems Incorporated. Typeface designs Copyright 2005 International Typeface Corporation. All rights reserved.
+ * 
+ * Webfont: Slimbach-BlackItalic by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/medium-black-italic/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All Rights Reserved.
+ * 
+ * Webfont: Slimbach-BookSC by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/sc/
+ * Copyright: Font software Copyright 1991, 2001 Adobe Systems Incorporated. Typeface designs Copyright 2005 International Typeface Corporation. All rights reserved.
+ * 
+ * Webfont: Slimbach-Bold by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/bold/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All Rights Reserved.
+ * 
+ * Webfont: Slimbach-BookItalic by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/book-italic/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All Rights Reserved.
+ * 
+ * Webfont: Slimbach-MediumItalic by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/medium-italic/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All Rights Reserved.
+ * 
+ * Webfont: Slimbach-Medium by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/medium/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All rights reserved.
+ * 
+ * Webfont: Slimbach-Book by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/slimbach/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All rights reserved.
+ * 
+ * Webfont: Slimbach-BoldItalic by ITC
+ * URL: https://www.myfonts.com/fonts/itc/slimbach/bold-italic/
+ * Copyright: Copyright 1991, 2001 Adobe Systems Incorporated. All Rights Reserved.
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3530704
+ * Licensed pageviews: 250,000
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("/count/35dfd0");
+
+  
+@font-face {font-family: 'Slimbach-Black';src: url('webfonts/35DFD0_0_0.eot');src: url('webfonts/35DFD0_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_0_0.woff2') format('woff2'),url('webfonts/35DFD0_0_0.woff') format('woff'),url('webfonts/35DFD0_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-MediumSC';src: url('webfonts/35DFD0_1_0.eot');src: url('webfonts/35DFD0_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_1_0.woff2') format('woff2'),url('webfonts/35DFD0_1_0.woff') format('woff'),url('webfonts/35DFD0_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-BlackItalic';src: url('webfonts/35DFD0_2_0.eot');src: url('webfonts/35DFD0_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_2_0.woff2') format('woff2'),url('webfonts/35DFD0_2_0.woff') format('woff'),url('webfonts/35DFD0_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-BookSC';src: url('webfonts/35DFD0_3_0.eot');src: url('webfonts/35DFD0_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_3_0.woff2') format('woff2'),url('webfonts/35DFD0_3_0.woff') format('woff'),url('webfonts/35DFD0_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-Bold';src: url('webfonts/35DFD0_4_0.eot');src: url('webfonts/35DFD0_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_4_0.woff2') format('woff2'),url('webfonts/35DFD0_4_0.woff') format('woff'),url('webfonts/35DFD0_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-BookItalic';src: url('webfonts/35DFD0_5_0.eot');src: url('webfonts/35DFD0_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_5_0.woff2') format('woff2'),url('webfonts/35DFD0_5_0.woff') format('woff'),url('webfonts/35DFD0_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-MediumItalic';src: url('webfonts/35DFD0_6_0.eot');src: url('webfonts/35DFD0_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_6_0.woff2') format('woff2'),url('webfonts/35DFD0_6_0.woff') format('woff'),url('webfonts/35DFD0_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-Medium';src: url('webfonts/35DFD0_7_0.eot');src: url('webfonts/35DFD0_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_7_0.woff2') format('woff2'),url('webfonts/35DFD0_7_0.woff') format('woff'),url('webfonts/35DFD0_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-Book';src: url('webfonts/35DFD0_8_0.eot');src: url('webfonts/35DFD0_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_8_0.woff2') format('woff2'),url('webfonts/35DFD0_8_0.woff') format('woff'),url('webfonts/35DFD0_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Slimbach-BoldItalic';src: url('webfonts/35DFD0_9_0.eot');src: url('webfonts/35DFD0_9_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35DFD0_9_0.woff2') format('woff2'),url('webfonts/35DFD0_9_0.woff') format('woff'),url('webfonts/35DFD0_9_0.ttf') format('truetype');}
+ 

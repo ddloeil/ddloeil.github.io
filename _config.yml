@@ -1,0 +1,10 @@
+# site settings
+title: le doigt dans l'œil
+author: La Demeurée
+description: "Rencontres philosophiques & poétiques de La Demeurée."
+
+# build settings
+port: 4000
+highlighter: pygments
+markdown: kramdown
+permalink: pretty
