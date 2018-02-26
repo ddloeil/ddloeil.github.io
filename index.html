@@ -9,8 +9,7 @@ layout: default
     <br />
     <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      {{ post.date | date: date_format }}
-    </time>
+      {{ post.date | date: date_format }} ~ {{ post.author }}</time>
     <div class="index-img">
       <a href="{{ post.url }}"><img src="{{ post.image | prepend: site.baseurl }}" class="post-img"></a>
     </div>
