@@ -163,7 +163,7 @@ pre {
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
-  padding-left: 30px; }
+  padding-left: 30px;}
   @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
@@ -410,7 +410,8 @@ padding-top: 40vh;
       font-size: 2em; } }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  padding-top: 40px; }
   .post-content h2 {
     font-size: 32px;
     font-family: "Slimbach-Bold";}
