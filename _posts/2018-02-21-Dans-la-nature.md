@@ -3,7 +3,7 @@ layout: post
 title: "Dans la nature"
 author: "Philippe Beck"
 date:   2018-02-21 14:30:03 +0100
-categories: jekyll update
+categories: [Rencontre 2, jekyll update]
 image: /16.jpg
 ---
 

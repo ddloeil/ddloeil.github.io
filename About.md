@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "À propos"
+image: /img-reunion.jpg
 ---
 
 Ce site recueille les textes et autres traces produites pour et lors des rencontres philosophiques de la Demeurée.

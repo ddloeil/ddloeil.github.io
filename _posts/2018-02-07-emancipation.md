@@ -3,19 +3,10 @@ layout: post
 title: "1 ~ Arts et politiques de l'émancipation"
 author: "Benjamin Torterat"
 date: 2018-02-07 14:30:03 +0100
-categories: jekyll update
+categories: [Rencontre 1, jekyll update]
 image: /8.jpg
 ---
 
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.5  (Unix)">
-	<META NAME="CREATED" CONTENT="20180223;10455100">
-	<META NAME="CHANGED" CONTENT="20180223;11262800">
-</HEAD>
-<BODY LANG="fr-FR" DIR="LTR">
 
 <H2 CLASS="western">Questions initiales
 </H2>
