@@ -7,6 +7,9 @@ categories: jekyll update
 
 ## Mutualisation militante
 
+### Intention :
+La Mutante est un projet de réseau mutualiste aussi bien matériel - qu'intellectuel - et sensible. Construite sous la forme d'une expérience politique et économique locale - La Mutante s'appliquera à redonner confiance en l'investissement dans le bien commun - en plus d'être un prétexte au développement d'outils et de méthodes décisionnelles appropriés à notre environnement direct. 
+
 
 ### Objectifs :
  - Créer du Bien Commun.
@@ -17,7 +20,6 @@ categories: jekyll update
 
 ### Moyens :
  - Cotisation mensuelle ou annualisée.
- - Location de matériel.
  - Mutualisation de matériel.
  - Plate-forme numérique.
  - Publications & évènements.
@@ -26,10 +28,10 @@ categories: jekyll update
 
 1. #### Membres :
  - 200 personnes physiques résidant à Caen et environs - cotisant en leur nom propre.
- - X associations agissant à Caen et environs.
+ - X personnes morales agissant à Caen et environs.
  - ...
  
-2. #### Organe décisionnel :
+2. #### Organe décisionnel tournant :
  10 membres dont :
  - 3 membres volontaires ou élus (si plusieurs candidats) pour 3 mois.
  - 5 membres tirés au sort chaque mois parmi les mutants.

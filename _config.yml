@@ -2,6 +2,16 @@
 title: le doigt dans l'œil
 author: La Demeurée
 description: "Rencontres philosophiques & poétiques de La Demeurée."
+collections:
+  rencontre_1:
+      title: "Rencontre #1"
+      date:   2018-02-07 14:30:03 +0100
+      output: true
+      
+  rencontre_2:
+      title: "Rencontre #2"
+      date:   2018-02-21 14:30:03 +0100
+      output: true
 
 # build settings
 port: 4000
